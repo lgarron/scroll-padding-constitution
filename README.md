@@ -9,9 +9,11 @@ The following are goals of the CSS on the page:
 
 ![Wide window with the entire title visible](wide-with-title-visible.png)
 
-`scroll-padding-top` can satisfy the first two goals, but the need for a fixed padding value prevents the third from working. For example, the title is cut off after "the" in the following screenshot, and extends under other elements to cover some of the anchor-linked text.
+A simple `scroll-padding-top` CSS rule can satisfy the first two goals, but the need for a fixed padding value prevents the third from working. For example, the title is cut off after "the" in the following screenshot, and extends under other elements to cover some of the anchor-linked text.
 
 ![Narrow window with title overlapping headings](narrow-with-title-overlapping-headings.png)
+
+I want to know if other parts of the scroll snap spec (e.g. containers) can solve this, else submit this as a use case that I think the spec should be able to address.
 
 # Acknowledgments
 
