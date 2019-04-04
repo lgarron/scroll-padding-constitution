@@ -11,7 +11,7 @@ The following are goals of the CSS on the page:
 
 `scroll-padding-top` appears to solve the first two, but the need for a fixed padding value prevents the third from working. For example, the title is cut off after "the" in the following screenshot, and extends under other elements to cover some of the anchor-linked text.
 
-![Narrow window with title overlapping](narrow-with-title-overlapping.png)
+![Narrow window with title overlapping headings](narrow-with-title-overlapping-headings.png)
 
 # Acknowledgments
 

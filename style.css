@@ -1,12 +1,10 @@
 body {
-  scroll-padding-top: 7.25em;
+  scroll-padding-top: 5.25em;
 }
 
 h1, h2, h3 {
   position: sticky;
   background: white;
-  padding-top: 0.25em;
-  padding-bottom: 0.25em;
 }
 
 h1 {
@@ -15,12 +13,12 @@ h1 {
 }
 
 h2 {
-  top: 2.0em;
+  top:  1.5em;
   padding-left: 1em;
 }
 
 h3 {
-  top: 4.5em;
+  top: 3.25em;
   padding-left: 2em;
 }
 
