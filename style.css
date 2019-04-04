@@ -1,0 +1,33 @@
+body {
+  scroll-padding-top: 7.25em;
+}
+
+h1, h2, h3 {
+  position: sticky;
+  background: white;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+}
+
+h1 {
+  top: 0;
+  padding-left: 0em;
+}
+
+h2 {
+  top: 2.0em;
+  padding-left: 1em;
+}
+
+h3 {
+  top: 4.5em;
+  padding-left: 2em;
+}
+
+p {
+  padding-left: 3em;
+}
+
+:target {
+  background: rgba(255, 0, 0, 0.1)
+}
